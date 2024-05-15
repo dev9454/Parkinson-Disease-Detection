@@ -1,6 +1,3 @@
-Certainly! Here's a concise description for a GitHub repository focusing on Parkinson's disease detection using machine learning and Support Vector Machine (SVM):
-
----
 
 ## Parkinson's Disease Detection Using Machine Learning and SVM
 
